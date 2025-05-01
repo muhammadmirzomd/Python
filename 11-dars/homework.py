@@ -1,6 +1,7 @@
 """
 Dict misollar
 """
+
 #1
 my_dict = {}
 print(my_dict)
@@ -137,3 +138,4 @@ print(lst)
 lst = [30, 10, 40, 20]
 lst.sort()
 print(lst)
+
