@@ -22,4 +22,3 @@
 #         print("Son nolga teng")
 #         break
 
-

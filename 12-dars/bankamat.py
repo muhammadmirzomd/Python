@@ -23,7 +23,6 @@ def pin_kod():
         print("PIN kodni 3 marta noto'g'ri kiritdingiz. Bankomat bloklandi.")
         return pin_kod()
 
-
 def hisobni_tekshirish():
     print("Hisobni tekshirish")
     hisob = 1000000
