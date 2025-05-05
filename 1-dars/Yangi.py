@@ -1,0 +1,21 @@
+# print("mening ismim Yusufxon")
+# print("Qalesiz")
+# ism = input("Ismingizni kiriting : ")
+# familiya = input("Familiyani kiriting : ")
+# print(ism)
+# print(familiya)
+# yosh = int(input("Yoshingizni kiriting: "))
+# # print("Sizning yoshingiz: ", yosh, "da")
+# a = 12346
+# b = 53452
+# # natija = a + b
+# # print(natija)
+# print(a+b)
+# print(a-b)
+# print(a*b)
+# print(a/b)
+a = int(input("1-sonni kiriting : "))
+b = int(input("2-sonni kiriting : "))
+print(a+b)
+print(a-b)
+
