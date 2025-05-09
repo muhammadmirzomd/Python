@@ -30,7 +30,6 @@
 #
 # k = Kitob("O‘tkan kunlar", "Abdulla Qodiriy", "Roman", 1926, 350, "G'afur G'ulom")
 # print(k.malumotlar())
-
 """
 2-misol
 """
@@ -64,8 +63,3 @@
 # t = Talaba("Kmdr", "Kmdurov", "Axborot texnologiyalari", 3, 10458, "dilshod@gmail.com")
 # print(t.nmadr())
 # print(t.kontakt())
-
-"""
-3-misol
-"""
-
