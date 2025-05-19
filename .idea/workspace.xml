@@ -5,40 +5,156 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf41ca06-10fa-4a54-bc1c-683d1be0101b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-dars/Yangi.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-oy/1-dars/Yangi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-dars/classwork.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-oy/1-dars/classwork.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-dars/homework.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-oy/1-dars/homework.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-dars/classwork.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-oy/10-dars/classwork.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-dars/homework.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-oy/10-dars/homework.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-dars/classwork.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-oy/11-dars/classwork.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-dars/homework.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-oy/11-dars/homework.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-dars/misollar.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-oy/11-dars/misollar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12-dars/bankamat.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-oy/12-dars/bankamat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12-dars/classwork.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-oy/12-dars/classwork.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12-dars/vazifa.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-oy/12-dars/vazifa.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-dars/homework.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-oy/4-dars/homework.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-dars/classwork.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-oy/5-dars/classwork.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-dars/homework.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-oy/5-dars/homework.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-dars/vazifa.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-oy/5-dars/vazifa.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-dars/vazifa2.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-oy/5-dars/vazifa2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6-dars/classwork.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-oy/6-dars/classwork.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6-dars/homework.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-oy/6-dars/homework.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7-dars/classwork.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-oy/7-dars/classwork.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7-dars/homework.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-oy/7-dars/homework.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7-dars/misollar.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-oy/7-dars/misollar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8-dars/classwork.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-oy/8-dars/classwork.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8-dars/homework.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-oy/8-dars/homework.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-dars/classwork.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-oy/9-dars/classwork.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 2
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;muhammadmirzomd&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/muhammadmirzomd/Python.git&quot;,
+    &quot;accountId&quot;: &quot;6e633a7e-a307-4bda-a66f-e2a28bfffc0c&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2x8tNWUEpIF1mQC7c5M4ra9p6OK" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.test.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;OrchideMappingSettingsSimpleMapping.checked&quot;: &quot;true&quot;,
+    &quot;Python.6-dars.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bankamat.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dars.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\Python\1-oy" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.bankamat">
+    <configuration name="6-dars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2-oy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2-oy/6-dars.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bankamat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1-oy/12-dars" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1-oy/12-dars/bankamat.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/14-dars class takrorlash" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14-dars class takrorlash/dars.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
@@ -63,6 +179,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.bankamat" />
+        <item itemvalue="Python.6-dars" />
+        <item itemvalue="Python.dars" />
         <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
@@ -70,7 +189,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-2ee2454479a3-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.25410.122" />
+        <option value="bundled-python-sdk-dfff61a61320-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.25410.159" />
       </set>
     </attachedChunks>
   </component>
@@ -83,5 +202,16 @@
       <updated>1747331489705</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
